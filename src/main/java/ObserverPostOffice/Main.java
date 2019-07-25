@@ -17,7 +17,6 @@ public class Main {
 		postOfficeNis.addMail(mail1);
 		postOfficeNis.addMail(mail2);
 		
-
 	}
 
 }
