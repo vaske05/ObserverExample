@@ -11,4 +11,14 @@ public class Mail {
 		this.address = address;
 		this.content = contet;
 	}
+	
+	public String getReceiverMail() {
+		return receiverMail;
+	}
+
+	public void setReceiverMail(String receiverMail) {
+		this.receiverMail = receiverMail;
+	}
+	
+	
 }
